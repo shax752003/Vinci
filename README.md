@@ -42,9 +42,9 @@ yarn dev
 pnpm dev
 ```
 
-##The app will be available at http://localhost:3000.
+The app will be available at http://localhost:3000.
 
 
-##License
+License
 Feel free to use this content as a starting point for your GitHub . Modify it further to suit your specific online art store and its features.
 
