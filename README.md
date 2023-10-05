@@ -41,3 +41,23 @@ yarn dev
 # or
 pnpm dev
 ```
+
+##The app will be available at http://localhost:3000.
+
+##Features
+Browse a diverse collection of artworks, including paintings, photography, sculptures, and fiber art.
+Contact the store for inquiries and purchases.
+Smooth and responsive user interface for an enjoyable browsing experience.
+
+##Contributing
+We welcome contributions! Please follow these steps to contribute to the project:
+
+##Fork the repository.
+1.Create a new branch: git checkout -b feature/new-feature.
+2.Make your changes and commit them: git commit -m 'Add new feature'.
+3.Push to the feature branch: git push origin feature/new-feature.
+4.Submit a pull request.
+
+##License
+Feel free to use this content as a starting point for your GitHub . Modify it further to suit your specific online art store and its features.
+
