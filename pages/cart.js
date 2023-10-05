@@ -5,7 +5,7 @@ import Link from "next/link";
 import { FiShoppingCart } from "react-icons/fi";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import Wrapper from "@/components/Wrapper";
-import CartItem from "@/components/CartItem";
+import Cartitem from "@/components/Cartitem";
 
 const Cart = () => {
   return (
@@ -25,9 +25,9 @@ const Cart = () => {
             <div className="text-lg font-bold mb-4 text-gray-800">
               Cart Items
             </div>
-            <CartItem />
-            <CartItem />
-            <CartItem />
+            <Cartitem />
+            <Cartitem />
+            <Cartitem />
           </div>
 
           {/* Summary */}
